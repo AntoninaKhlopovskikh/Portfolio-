@@ -4,4 +4,4 @@
 
 
 
-<img height="32" width="32" src="https://simpleicons.org/icons/python.svg)https://simpleicons.org/icons/python.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" />
