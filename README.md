@@ -11,7 +11,7 @@ Skills: SQL, MySQL, PostgreSQL, MC Excel, Python for analysis, English, Japanese
 - 👯 I’m looking to collaborate on Data analysis 
 - 📫 How to reach me: E-mail: khlopovskikh1234@gmail.com 
 - ⚡ Fun fact: Иногда я говорю на нескольких языках в одном предложении 
-- SQL-проект: https://drive.google.com/drive/folders/1tG_udgEcbETqq2KCItPPY6P2rS6685Fa?usp=sharing
+- SQL-проект, в котором требовалось проанализировать данные на платформе онлайн-образования за год и найти корреляцию: https://drive.google.com/drive/folders/1tG_udgEcbETqq2KCItPPY6P2rS6685Fa?usp=sharing
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AntoninaKhlopovskikh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](tg.me@EWEsin30_x_8)  
